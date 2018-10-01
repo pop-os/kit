@@ -8,6 +8,10 @@ below. Example projects are provided using the packages together to produce a
 final artifact, and a point of contact is provided for someone who designed the
 example project.
 
+## Kits
+
+- [Pop!\_OS Electrical Engineering Kit](electrical_engineering.md)
+
 ## Kit Selection
 
 A Kit should be a self-contained set of packages that can be utilized together
