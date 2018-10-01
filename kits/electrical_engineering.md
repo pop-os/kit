@@ -6,7 +6,9 @@
 
 ## Packages
 
+- avrdude - http://savannah.nongnu.org/projects/avrdude/
 - KiCad - http://kicad-pcb.org/
+- libc-avr - https://www.nongnu.org/avr-libc/
 
 ## Point of Contact
 
@@ -14,4 +16,4 @@
 
 ## Example Project
 
-- System76 Thelio Io - https://github.com/system76/thelio-io-hardware
+- System76 Thelio Io - https://github.com/system76/thelio-io
