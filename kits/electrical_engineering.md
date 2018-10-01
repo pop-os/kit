@@ -12,4 +12,4 @@
 
 ## Example Project
 
-- System76 Thelio Io - https://github.com/system76/thelio-io, maintained Jeremy Soller - https://github.com/jackpot51
+- System76 Thelio Io - https://github.com/system76/thelio-io, maintained by Jeremy Soller - https://github.com/jackpot51
