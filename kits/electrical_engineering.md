@@ -10,10 +10,6 @@
 - KiCad - http://kicad-pcb.org/
 - libc-avr - https://www.nongnu.org/avr-libc/
 
-## Point of Contact
-
-- Jeremy Soller - https://github.com/jackpot51
-
 ## Example Project
 
-- System76 Thelio Io - https://github.com/system76/thelio-io
+- System76 Thelio Io - https://github.com/system76/thelio-io, maintained Jeremy Soller - https://github.com/jackpot51
