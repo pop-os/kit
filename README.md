@@ -10,7 +10,7 @@ example project.
 
 ## Kits
 
-- [Pop!\_OS Electrical Engineering Kit](electrical_engineering.md)
+- [Pop!\_OS Electrical Engineering Kit](kits/electrical_engineering.md)
 
 ## Kit Selection
 
