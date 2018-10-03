@@ -9,6 +9,7 @@
 - avrdude - http://savannah.nongnu.org/projects/avrdude/
 - KiCad - http://kicad-pcb.org/
 - libc-avr - https://www.nongnu.org/avr-libc/
+- Arduino IDE - https://www.arduino.cc/en/Main/Software
 
 ## Example Project
 
