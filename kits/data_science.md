@@ -2,6 +2,8 @@
 
 ## Hardware
 
+- System76 Oryx Pro - https://system76.com/laptops/oryx
+
 ## Packages
 
 - R - https://www.r-project.org/
