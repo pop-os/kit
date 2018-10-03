@@ -9,6 +9,7 @@
 - R Packages - ggplot2, plyr, dplyr, lubridate, zoo, forecast, sqldf
 - Python - https://www.python.org/
 - Python Packages - IPython Notebook, NumPy, SciPy, matplotlib, pandas, scikit-learn, and SymPy
+- MySQL - https://www.mysql.com/
 
 ## Example Project
 
