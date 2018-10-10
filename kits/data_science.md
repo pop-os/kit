@@ -2,6 +2,7 @@
 
 ## Hardware
 
+- System76 Galago Pro - https://system76.com/laptops/galago For light computing, portable for presentations
 - System76 Oryx Pro - https://system76.com/laptops/oryx
 
 ## Packages
