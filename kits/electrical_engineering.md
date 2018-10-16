@@ -11,6 +11,7 @@
 - libc-avr - https://www.nongnu.org/avr-libc/
 - Arduino IDE - https://www.arduino.cc/en/Main/Software
 - *PROPOSED BY A USER, NEEDS DISCUSSION* - Eagle - https://www.autodesk.com/products/eagle/blog/how-to-install-autodesk-eagle-on-windows-mac-and-linux/
+- Digi-Key KiCAD part library: https://github.com/digikey/digikey-kicad-library/
 
 ## Example Project
 
