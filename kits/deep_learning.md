@@ -1,4 +1,4 @@
-# Pop!\_OS Machine Learning Kit
+# Pop!\_OS Deep Learning Kit
 
 ## Hardware
 
