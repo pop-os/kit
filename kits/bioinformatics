@@ -6,6 +6,9 @@
 
 ## Packages
 
+- R - https://www.r-project.org/ -- ggplot2 - https://ggplot2.tidyverse.org/ 
+- bioconductor - https://www.bioconductor.org/install/ also as docker image - https://www.bioconductor.org/help/docker/
+- Python - https://www.python.org/
 - Bowtie - https://github.com/BenLangmead/bowtie
 - Bowtie2 - https://github.com/BenLangmead/bowtie2
 - Crossbow - http://bowtie-bio.sourceforge.net/crossbow/index.shtml
