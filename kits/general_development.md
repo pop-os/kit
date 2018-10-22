@@ -6,6 +6,7 @@ Tools that have come up so far include:
 
 - Visual Studio Code (already a Pop! pick)
 - Slack (already a Pop! pick)
+- Atom (text editor) (already a Pop! pick)
 - Git (in Ubuntu repo)
 - htop (in Ubuntu repo)
 - texlive-full (in Ubuntu repo)
