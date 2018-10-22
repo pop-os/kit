@@ -8,6 +8,7 @@
 
 - Robot Operating System (ROS) - Ros-desktop, Ros-desktop-full, Ros-opencv-apps, Ros-perception, Ros-simulators - http://www.ros.org
 - Aseba - https://www.thymio.org/
+- Arduio IDE - https://www.arduino.cc/en/Main/Software
 - Choreonoid - http://choreonoid.org/
 - Gazebo7 - http://gazebosim.org/
 - Liburdfdom-tools - https://github.com/ros/urdfdom
@@ -18,3 +19,4 @@
 - Robot-player - http://playerstage.sourceforge.net/
 - Rtai - http://www.rtai.org/
 - Xenomai-runtime - http://www.xenomai.org/
+- PyCharm - https://www.jetbrains.com/pycharm/ -- NEED TO EVALUATE
