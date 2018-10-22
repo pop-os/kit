@@ -1,0 +1,12 @@
+Source: pop-kit
+Section: metapackages
+Priority: optional
+Maintainer: Jeremy Soller <jeremy@system76.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.8
+Homepage: https://github.com/pop-os/kit
+
+Package: pop-kit-electrical-engineering
+Architecture: all
+Depends: avrdude, kicad, libc-avr
+Description: Pop Electrical Engineering Kit
