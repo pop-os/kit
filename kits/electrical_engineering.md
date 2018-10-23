@@ -19,7 +19,8 @@
 
 ## Notes
 
-*Regarding libraries in KiCAD*
+**Regarding libraries in KiCAD**
+
 you would have to add the
 libraries to the global symbol[1] and footprint library[2] tables that
 get installed with KiCad.  Out of the box, the global symbol and
