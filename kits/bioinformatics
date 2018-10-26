@@ -16,6 +16,15 @@
 - Cufflinks - https://cole-trapnell-lab.github.io/cufflinks/
 - Lighter - https://github.com/mourisl/Lighter
 - Anaconda - its own packaged distirbution, need to evaluate licensing etc. https://www.anaconda.com/distribution/
+- GCP Variant Transforms - https://github.com/googlegenomics/gcp-variant-transforms
+- Cromwell - https://github.com/broadinstitute/cromwell
+- BLAST - https://www.ncbi.nlm.nih.gov/books/NBK1762/
+- Emboss - http://emboss.sourceforge.net/
+- Staden - http://staden.sourceforge.net/
+- Modeller - https://salilab.org/modeller/
+- AutoDock - http://autodock.scripps.edu/
+- Gromacs - http://www.gromacs.org/
+- OrfPredictor - http://bioinformatics.ysu.edu/tools/docs/OrfPredictor_faq.html
 
 ## Customer Case Study
 
