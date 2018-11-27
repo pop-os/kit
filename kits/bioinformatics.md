@@ -26,6 +26,7 @@
 - AutoDock - http://autodock.scripps.edu/
 - Gromacs - http://www.gromacs.org/
 - OrfPredictor - http://bioinformatics.ysu.edu/tools/docs/OrfPredictor_faq.html
+- Consider the 250+ packages in BioLinux (apparently last updated in 2015): http://environmentalomics.org/bio-linux-software-list/
 
 ## Customer Case Study
 
