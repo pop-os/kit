@@ -25,7 +25,3 @@
 - Rtai - http://www.rtai.org/
 - Xenomai-runtime - http://www.xenomai.org/
 - V-REP - widely used simulator, EVALUATE LICENSING
-- FreeCAD - https://www.freecadweb.org/
-- OpenSCAD - https://www.openscad.org/
-- Solidworks - https://www.solidworks.com/ -- NOT ON LINUX... User would need to run in VM but does that limit GPU acceleration?
-- Fusion 360 - https://www.autodesk.com/products/fusion-360/overview -- NOT ON LINUX... User would need to run in VM but does that limit GPU acceleration?
