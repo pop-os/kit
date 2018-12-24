@@ -25,3 +25,7 @@
 - Rtai - http://www.rtai.org/
 - Xenomai-runtime - http://www.xenomai.org/
 - V-REP - widely used simulator, EVALUATE LICENSING
+
+## Notes
+
+while robots definitely involve mechanical design, CAD are not necessarily core robotics tools. If they do belong in this list, why wouldn't you also throw in PCB design tools (Eagle, KiCad), and maybe even electronics simulation tools (ngspice). For simple projects, Linux students often use Onshape for CAD.
