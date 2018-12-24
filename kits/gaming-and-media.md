@@ -1,0 +1,10 @@
+- Steam
+- GNOME Twitch
+- gThumb
+- gnome-podcasts
+- VLC media player
+- Various codecs for video and image files
+- Plex
+- Kodi
+- minitube
+- Proton -- https://github.com/ValveSoftware/Proton
