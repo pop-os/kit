@@ -8,6 +8,8 @@ Tools that have come up so far include:
 - Slack (already a Pop! pick)
 - Atom (text editor) (already a Pop! pick)
 - Git (in Ubuntu repo)
+- PyCharm -- evaluate, there is a freely licensed community edition
+- QTCreator
 - htop (in Ubuntu repo)
 - texlive-full (in Ubuntu repo)
 - Powershell - https://docs.microsoft.com/en-us/powershell/
