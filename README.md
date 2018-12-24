@@ -19,7 +19,7 @@ Each of the following kits is a work in progress still in proposal/draft stage:
 - [Pop!\_OS General Development Kit](kits/general_development.md)
 - [Pop!\_OS Robotics Kit](kits/robotics.md)
 - [Pop!\_OS Web Development Kit](kits/web_development.md)
-- [Pop!\_OS Web Development Kit](kits/gaming_and_media.md)
+- [Pop!\_OS Gaming and Media Kit](kits/gaming_and_media.md)
 
 
 ## Kit Selection
