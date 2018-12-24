@@ -1,3 +1,12 @@
+# Pop!\_OS Gaming and Media Kit
+
+## Hardware
+
+- Oryx Pro and Thelio for gaming and streaming
+- Meerkat for media center
+
+## Software
+
 - Steam
 - GNOME Twitch
 - gThumb
@@ -11,3 +20,5 @@
 - Open Broadcast Studio 
 - GIMP 
 - Krita 
+
+## Notes
