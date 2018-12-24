@@ -8,3 +8,6 @@
 - Kodi
 - minitube
 - Valve Steam Proton -- https://github.com/ValveSoftware/Proton
+- Open Broadcast Studio 
+- GIMP 
+- Krita 
