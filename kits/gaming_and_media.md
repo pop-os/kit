@@ -7,4 +7,4 @@
 - Plex
 - Kodi
 - minitube
-- Proton -- https://github.com/ValveSoftware/Proton
+- Valve Steam Proton -- https://github.com/ValveSoftware/Proton
