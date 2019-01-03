@@ -16,6 +16,7 @@
 - Various codecs for video and image files
 - Plex
 - Kodi
+- OSMC
 - minitube
 - Valve Steam Proton -- https://github.com/ValveSoftware/Proton
 - Open Broadcast Studio 
