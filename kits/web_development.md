@@ -17,6 +17,8 @@
 - nginx - https://nginx.org/en/
 - php - https://secure.php.net/ -- php-fpm - https://php-fpm.org/ 
 - insomnia (REST) - https://insomnia.rest/
+- GNOME Web (Epiphany)
+- Chromium web browser
 - Google Chrome - https://www.google.com/chrome/ NOT Chromium -- NEED TO EVALUATE
 
 ## Example Project
