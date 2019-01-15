@@ -15,3 +15,4 @@ Tools that have come up so far include:
 - Powershell - https://docs.microsoft.com/en-us/powershell/
 - linuxbrew-wrapper - http://linuxbrew.sh/
 - Gnomit - https://source.ind.ie/gnome/gnomit/gjs (available as Flatpak)
+- fish shell - https://fishshell.com/
