@@ -13,10 +13,13 @@ example project.
 Each of the following kits is a work in progress still in proposal/draft stage:
 
 - [Pop!\_OS Bioinformatics Kit](kits/bioinformatics.md)
+- [Pop!\_OS Communications Kit](kits/communications.md)
 - [Pop!\_OS Data Science Kit](kits/data_science.md)
 - [Pop!\_OS Deep Learning Kit](kits/deep_learning.md)
 - [Pop!\_OS Electrical Engineering Kit](kits/electrical_engineering.md)
 - [Pop!\_OS General Development Kit](kits/general_development.md)
+- [Pop!\_OS Graphics and Video Production Kit](kits/graphics_and_video_production.md)
+- [Pop!\_OS Podcasting and Vlogging](kits/podcasting_and_vlogging.md)
 - [Pop!\_OS Robotics Kit](kits/robotics.md)
 - [Pop!\_OS Web Development Kit](kits/web_development.md)
 - [Pop!\_OS Gaming and Media Kit](kits/gaming_and_media.md)
