@@ -1,4 +1,4 @@
-# Pop!\_OS Gaming and Media Kit
+# Pop!\_OS Podcasting and Vlogging
 
 ## Software
 
@@ -9,3 +9,5 @@
 - Openshot?
 - GIMP
 - Inkscape
+- Ardour
+- Audacity
