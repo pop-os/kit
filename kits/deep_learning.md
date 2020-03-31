@@ -1,16 +1,13 @@
 # Pop!\_OS Deep Learning Kit
 
-## Hardware
-
-- System76 Oryx Pro - https://system76.com/laptops/oryx
-- Hardware with NVIDIA GPU 
-
 ## Packages
 
 - Tensorflow - https://www.tensorflow.org/
 - Keras - https://keras.io/ 
 - PyTorch - https://pytorch.org/
+- Theano - needs packaging - http://www.deeplearning.net/software/theano/
 - Caffe - http://caffe.berkeleyvision.org/ Caffe2 - https://caffe2.ai/
+- Caffe 2 -
 - Microsoft Cognitive Toolkit - https://www.microsoft.com/en-us/cognitive-toolkit/
 - Deeplearning 4j - https://deeplearning4j.org/
 - ELKI - https://elki-project.github.io/
@@ -33,5 +30,5 @@ I'm not sure how viable this is (licensing, etc.) but per a customer
 it is standardized in the field
 - KNIME - https://en.wikipedia.org/wiki/KNIME needs evaluation (partially proprietary)
 - RapidMiner - https://github.com/rapidminer/ needs evaluation (partially proprietary)
+- Conda?
 
-## Example Project

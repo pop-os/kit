@@ -8,6 +8,10 @@
 ## Packages
 
 - Eclipse IDE - https://www.eclipse.org/
+- Postman
+- MySQL Workbench
+- psql
+- Postgres
 - Node/NVM - https://github.com/creationix/nvm
 - Ruby - https://www.ruby-lang.org/en/ -- Ruby on Rails - https://rubyonrails.org/
 - Angular - https://angular.io/

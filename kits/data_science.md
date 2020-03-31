@@ -1,10 +1,5 @@
 # Pop!\_OS Data Science Kit
 
-## Hardware
-
-- System76 Galago Pro - https://system76.com/laptops/galago For light computing, portable for presentations
-- System76 Oryx Pro - https://system76.com/laptops/oryx
-
 ## Packages
 
 - R - https://www.r-project.org/
@@ -14,5 +9,4 @@
 - Python Packages - IPython Notebook, NumPy, SciPy, matplotlib, pandas, scikit-learn, and SymPy
 - MySQL - https://www.mysql.com/
 
-## Example Project
 

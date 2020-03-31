@@ -1,15 +1,12 @@
 # Pop!\_OS Gaming and Media Kit
 
-## Hardware
-
-- Oryx Pro and Thelio for gaming and streaming
-- Meerkat for media center
-
 ## Software
 
 - Steam
 - Steam Controller HID config files, HID configs for XBox and Playstation included too would be so very convenient
 - GNOME Twitch
+- Lutris
+- GameHub
 - gThumb
 - gnome-podcasts
 - VLC media player

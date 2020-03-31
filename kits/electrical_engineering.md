@@ -1,9 +1,5 @@
 # Pop!\_OS Electrical Engineering Kit
 
-## Hardware
-
-- System76 Oryx Pro - https://system76.com/laptops/oryx
-
 ## Packages
 
 - avrdude - http://savannah.nongnu.org/projects/avrdude/
