@@ -60,7 +60,7 @@ Highlighted apps shown when Pop!\_Shop is opened
 
 ## 20.04 curated apps changes to do with debian vs flathub
 
-https://github.com/pop-os/repo-proprietary/issues/19
+Finalize list of curated and maintained apps here. Discussion at: https://github.com/pop-os/repo-proprietary/issues/19
 
 
 ## Pop!\_Kits Long Term?
