@@ -25,22 +25,22 @@ Discipline-specific application categories for Makers
 
 ### Remove
 
--Accessories
--Education
--Finance
--Internet
--System
--Writing and Language
+- Accessories
+- Education
+- Finance
+- Internet
+- System
+- Writing and Language
 
 ### Keep
 
--Audio
--Communication (same as kit)
--Media Production (same as graphics, video and audio production)
--Development (same as general development)
--Games (same as gaming and media)
--Office
--Graphics
+- Audio
+- Communication (same as kit)
+- Media Production (same as graphics, video and audio production)
+- Development (same as general development)
+- Games (same as gaming and media)
+- Office
+- Graphics
 
 ### Categories we'd add if we only add curated to apps to the top of existing categories
 
