@@ -1,4 +1,4 @@
-# Pop!\_OS Gaming and Media Kit
+# Pop!\_OS Gaming and Media
 
 ## Software
 
@@ -10,16 +10,8 @@
 - gThumb
 - gnome-podcasts
 - VLC media player
-- Various codecs for video and image files
 - Plex
 - Kodi
-- OSMC
-- minitube
-- Valve Steam Proton -- https://github.com/ValveSoftware/Proton
 - Open Broadcast Studio 
-- GIMP 
 - Krita 
 - KdenLive
-
-## Notes
-- Re: KdenLive "you can install KdenLive and enough of the KDE dependencies that it will launch, but it won't have the interface icons, cursor set, or dark themes that are required for it to be a usable experience."

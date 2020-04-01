@@ -1,29 +1,73 @@
-# Pop!\_Kits
+# Pop!\_Kits WIP
 
-Discipline-specific toolkits for Makers
-
-Pop Kits are sets of packages which are utilized to achieve a specific
-discipline. These packages are hand-selected for quality, which is described
-below. Example projects are provided using the packages together to produce a
-final artifact, and a point of contact is provided for someone who designed the
-example project.
+Discipline-specific application categories for Makers
 
 ## Kits
 
-Each of the following kits is a work in progress still in proposal/draft stage:
+### Kits ready for review:
 
-- [Pop!\_OS Bioinformatics Kit](kits/bioinformatics.md)
-- [Pop!\_OS Communications Kit](kits/communications.md)
-- [Pop!\_OS Data Science Kit](kits/data_science.md)
-- [Pop!\_OS Deep Learning Kit](kits/deep_learning.md)
-- [Pop!\_OS Electrical Engineering Kit](kits/electrical_engineering.md)
-- [Pop!\_OS General Development Kit](kits/general_development.md)
-- [Pop!\_OS Graphics and Video Production Kit](kits/graphics_and_video_production.md)
-- [Pop!\_OS Podcasting and Vlogging](kits/podcasting_and_vlogging.md)
-- [Pop!\_OS Robotics Kit](kits/robotics.md)
-- [Pop!\_OS Web Development Kit](kits/web_development.md)
-- [Pop!\_OS Gaming and Media Kit](kits/gaming_and_media.md)
 
+- [Pop!\_OS Communications](kits/communications.md)
+- [Pop!\_OS Electrical Engineering](kits/electrical_engineering.md)
+- [Pop!\_OS General Development](kits/general_development.md)
+- [Pop!\_OS Graphics, Video and Audio Production](kits/graphics_and_video_production.md)
+- [Pop!\_OS Web Dev and DevOps](kits/web_development.md)
+- [Pop!\_OS Gaming and Media](kits/gaming_and_media.md)
+
+### Kits in  progress
+
+- [Pop!\_OS Bioinformatics](kits/bioinformatics.md)
+- [Pop!\_OS Data Science](kits/data_science.md)
+- [Pop!\_OS Deep Learning](kits/deep_learning.md)
+- [Pop!\_OS Robotics](kits/robotics.md)
+
+## Pop!\_Shop categories to keep and remove
+
+### Remove
+
+-Accessories
+-Education
+-Finance
+-Internet
+-System
+-Writing and Language
+
+### Keep
+
+-Audio
+-Communication (same as kit)
+-Media Production (same as graphics, video and audio production)
+-Development (same as general development)
+-Games (same as gaming and media)
+-Office
+-Graphics
+
+### Categories we'd add if we only add curated to apps to the top of existing categories
+
+- Electrical Engineering
+- WebDev and DevOps
+- Bioinformatics
+- Deep Learning
+- Robotics
+- Data Science (Questionable. Has overlap with Bioinformatics - more research necessary)
+
+
+## Pop!\_OS Picks
+
+Highlighted apps shown when Pop!\_Shop is opened
+
+
+
+## 20.04 curated apps changes to do with debian vs flathub
+
+https://github.com/pop-os/repo-proprietary/issues/19
+
+
+## Pop!\_Kits Long Term?
+
+Discipline-specific toolkits for Makers
+
+Pop Kits are sets of packages which are utilized to achieve a specific discipline. These packages are hand-selected for quality, which is described below. Example projects are provided using the packages together to produce a final artifact, and a point of contact is provided for someone who designed the example project.
 
 ## Kit Selection
 

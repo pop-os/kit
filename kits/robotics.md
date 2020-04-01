@@ -6,13 +6,12 @@
 
 ## Software
 
-- Robot Operating System (ROS) - Ros-desktop, Ros-desktop-full, Ros-opencv-apps, Ros-perception, Ros-simulators - http://www.ros.org
+- Robot Operating System Desktop - ros-desktop
+- Robot Operating System Desktop Full - Ros-desktop-full
 - ROS dependencies for users not using ROS: OpenCV, PCL, Eigen, OMPL, FCL, Bullet, ODE, Orocos KDL/BFL/RTT
-- ROS IDEs - https://rosindustrial.org/news/2016/6/9/ros-qt-ide-plugin ,https://github.com/tonyrobotics/roboware-studio, http://wiki.ros.org/rosemacs, http://wiki.ros.org/IDEs#RDS:_ROS_Development_Studio, http://www.theconstructsim.com/rds-ros-development-studio/ -- NEED TO EVALUATE
 - Non-ROS interprocess comm tools like ZeroMQ
 - Aseba - https://www.thymio.org/
-- Arduio IDE - https://www.arduino.cc/en/Main/Software
-- Choreonoid - http://choreonoid.org/
+- Arduio IDE - cc.arduino.arduinoide - https://www.arduino.cc/en/Main/Software
 - Gazebo7 - http://gazebosim.org/
 - Liburdfdom-tools - https://github.com/ros/urdfdom
 - Morse-simulator - http://morse-simulator.github.io/
@@ -25,6 +24,14 @@
 - Rtai - http://www.rtai.org/
 - Xenomai-runtime - http://www.xenomai.org/
 - V-REP - widely used simulator, EVALUATE LICENSING
+
+### For future consideration
+- Ros-opencv-apps
+- Ros-simulators
+- ROS IDE in VS Code https://github.com/ms-iot/vscode-ros
+- ROS IDEs - https://rosindustrial.org/news/2016/6/9/ros-qt-ide-plugin ,https://github.com/tonyrobotics/roboware-studio, http://wiki.ros.org/rosemacs, http://www.theconstructsim.com/rds-ros-development-studio/
+- Choreonoid - http://choreonoid.org/
+
 
 ## Notes
 

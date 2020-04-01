@@ -1,4 +1,4 @@
-# Pop!\_OS Data Science Kit
+# Pop!\_OS Data Science
 
 ## Packages
 

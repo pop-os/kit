@@ -1,4 +1,4 @@
-# Pop!\_OS Graphics and Video Production Kit
+# Pop!\_OS Graphics, Video and Audio Production
 
 ## Software
 
@@ -8,5 +8,10 @@
 - OBS Studio - https://obsproject.com/
 - Inkscape - https://inkscape.org/
 - GIMP - https://www.gimp.org/
-- Lightworks Pro
+- Lightworks - debian available but probably not distributable - https://www.lwks.com/index.php?option=com_lwks&view=download&Itemid=206&tab=1
 - Natron
+- OBS Studio
+- Mumble
+- Ardour
+- Audacity
+- Krita

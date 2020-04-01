@@ -1,4 +1,4 @@
-# Pop!\_OS Graphics and Video Production Kit
+# Pop!\_OS Communications
 
 ## Packages
 

@@ -1,7 +1,8 @@
-# Pop!\_OS Deep Learning Kit
+# Pop!\_OS Deep Learning
 
 ## Packages
 
+- Tensorman - https://support.system76.com/articles/use-tensorman/
 - Tensorflow - https://www.tensorflow.org/
 - Keras - https://keras.io/ 
 - PyTorch - https://pytorch.org/
@@ -30,5 +31,6 @@ I'm not sure how viable this is (licensing, etc.) but per a customer
 it is standardized in the field
 - KNIME - https://en.wikipedia.org/wiki/KNIME needs evaluation (partially proprietary)
 - RapidMiner - https://github.com/rapidminer/ needs evaluation (partially proprietary)
-- Conda?
+- Conda
+- Miniconda
 

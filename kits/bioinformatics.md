@@ -1,12 +1,11 @@
-# Pop!\_OS Bioinformatics Kit
+# Pop!\_OS Bioinformatics
 
 ## Packages
 
 - R - In the repo - https://www.r-project.org/ -- ggplot2 - https://ggplot2.tidyverse.org/ 
+- R Studio - https://www.rstudio.com/
 - Shiny - In the repo - https://github.com/rstudio/shiny
 - bioconductor - In the repo - https://www.bioconductor.org/install/ also as docker image - https://www.bioconductor.org/help/docker/
-- Python - In the repo -https://www.python.org/
-- Docker - In the repo
 - Bowtie - In the repo
 - Bowtie2 - In the repo - https://github.com/BenLangmead/bowtie2
 - Crossbow - needs packaging - http://bowtie-bio.sourceforge.net/crossbow/index.shtml
@@ -27,6 +26,7 @@
 - OrfPredictor - can not be redistributed - http://bioinformatics.ysu.edu/tools/docs/OrfPredictor_faq.html
 - Conda - https://conda.io/en/latest/miniconda.html
 - Miniconda - https://github.com/conda/conda
+- Bioconda - https://bioconda.github.io/
 - Great list - https://github.com/danielecook/Awesome-Bioinformatics
 - Consider the 250+ packages in BioLinux (apparently last updated in 2015): http://environmentalomics.org/bio-linux-software-list/
 
