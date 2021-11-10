@@ -3,7 +3,7 @@
 ## Packages
 
 - AVRDUDE - avrdude - http://savannah.nongnu.org/projects/avrdude/
-- KiCad - kicad - http://kicad-pcb.org/
+- KiCad - kicad - http://kicad.org/
 - AVR Libc - needs packaging - libc-avr - https://www.nongnu.org/avr-libc/
 - Arduino IDE - cc.arduino.arduinoide - https://www.arduino.cc/en/Main/Software
 - Fritzing - org.fritzing.Fritzing - https://fritzing.org/home/
